@@ -3,8 +3,8 @@
 A reusable and customizable React loader component with shimmer animation using CSS masking.
 
 [![npm version](https://img.shields.io/npm/v/react-mask-loader?color=blue&style=flat-square)](https://www.npmjs.com/package/react-mask-loader)
-[![license](https://img.shields.io/npm/l/react-mask-loader?style=flat-square)](./LICENSE)
-
+[![MIT License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](./LICENSE)
+[![Bundle Size](https://img.shields.io/bundlephobia/minzip/react-mask-loader?style=flat-square)](https://bundlephobia.com/result?p=react-mask-loader)
 ---
 
 ## ✨ Features
