@@ -22,7 +22,7 @@ A reusable and customizable React loader component with shimmer animation using 
 
 import MaskLoader from 'react-mask-loader';
 
- <MaskLoader  image='imag-path'  alt={alt} classImage="uour-image-class"/>
+ `<MaskLoader  image='imag-path'  alt={alt} classImage="uour-image-class"/>`
 
 ---
 
